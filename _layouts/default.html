@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-  {%- include "head.html" -%}
+  {%- include head.html -%}
 
   <body mv-app="jekyllCms" mv-storage="https://github.com/peter-sharp/mavo-as-jekyll-cms/_data/cmsData.json"   mv-plugins="importhtml tinymce">
   
-    {%- include "header.html" -%}
+    {%- include header.html -%}
 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
@@ -13,7 +13,7 @@
       </div>
     </main>
 
-    {%- include "footer.html" -%}
+    {%- include footer.html -%}
 
   </body>
 
