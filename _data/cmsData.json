@@ -1,10 +1,11 @@
 {
 	"item": [
-			"Here",
-			"is",
-			"a",
-			"list",
-			"of",
-			"items"
-	]
+		"Here",
+		"is",
+		"a",
+		"list",
+		"of",
+		"items"
+	],
+	"title": "Mavo As Jamstack CMS Solution"
 }
