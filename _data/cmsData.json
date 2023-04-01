@@ -1,8 +1,18 @@
 {
 	"item": [
-		"Here",
-		"is",
-		"a",
-		"list"
+		[
+			"Here"
+		],
+		[
+			"is"
+		],
+		[
+			"a"
+		],
+		[
+			"list",
+			"of",
+			"items"
+		]
 	]
 }
