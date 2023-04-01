@@ -1,6 +1,6 @@
-Seeing if [mavo](https://mavo.io/) could make a good jekyll cms
+Seeing if [mavo](https://mavo.io/) could make a good jekyll/11ty cms
 <ul mv-list property="item">
-{% for item in site.data.cmsData.item %}
+{% for item in cmsData.item %}
 <li mv-list-item>{{ item }}</li>
 {% endfor %}
 </ul>
