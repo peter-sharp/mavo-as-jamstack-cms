@@ -5,4 +5,4 @@ Seeing if [mavo](https://mavo.io/) could make a good jekyll cms
   {% endfor %}
 </ul>
 
-<!-- link https://peter-sharp.github.io/mavo-as-jekyll-cms/ -->
+[Demo](https://peter-sharp.github.io/mavo-as-jekyll-cms/)
