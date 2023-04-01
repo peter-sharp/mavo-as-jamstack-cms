@@ -1,7 +1,7 @@
 Seeing if [mavo](https://mavo.io/) could make a good jekyll cms
-<ul mv-list>
+<ul mv-list property="item">
 {% for item in site.data.cmsData.item %}
-<li property="item" mv-list-item>{{ item }}</li>
+<li mv-list-item>{{ item }}</li>
 {% endfor %}
 </ul>
 
