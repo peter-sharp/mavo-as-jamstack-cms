@@ -12,7 +12,7 @@
       --mv-property: title;
     }
 
-    [mv-mode] + [original-content] {
+    .mv-bar + main  [original-content] {
       display: none;
     }
 
@@ -21,16 +21,16 @@
       --mv-list: true;
     }
 
-    [mv-list] > li {
+    .mv-bar + main  li {
       display: none;
     }
 
-    [mv-list] > [mv-list-item] {
+    .mv-bar + main  [mv-list-item] {
       display: list-item;
     }
+
     ul > li:first-child {
       --mv-list-item: true;
-      
     }
 
     
