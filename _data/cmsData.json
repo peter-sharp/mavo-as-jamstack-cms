@@ -9,8 +9,5 @@
 		"That you can edit"
 	],
 	"content": "<div>it works <small>...sort&nbsp;</small></div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>",
-	"title": [
-		"Mavo as a JAMStack CMS",
-		null
-	]
+	"title": "Mavo as a JAMStack CMS"
 }
