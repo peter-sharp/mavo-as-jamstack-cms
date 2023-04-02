@@ -5,9 +5,10 @@
 		"a",
 		"list",
 		"of",
-		"items"
+		"items",
+		"That you can edit"
 	],
-	"content": "it works <small>...sort of</small>",
+	"content": "<div>it works <small>...sort&nbsp;</small></div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>",
 	"title": [
 		"Mavo as a JAMStack CMS",
 		null
