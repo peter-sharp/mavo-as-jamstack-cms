@@ -3,18 +3,20 @@
 
   {%- include head.html -%}
 
-  <body mv-app="jekyllCms" mv-storage="https://github.com/peter-sharp/mavo-as-jekyll-cms/_data/cmsData.json"   mv-plugins="importhtml tinymce">
-  
-    {%- include header.html -%}
+  <body>
+  <mv-app>
 
+    {%- include header.html -%}
+    
     <main class="page-content" aria-label="Content">
       <div class="wrapper" mv-expressions="none">
         {{ content }}
       </div>
     </main>
-
+    
     {%- include footer.html -%}
-
+    
+  </mv-app>
   </body>
 
 </html>

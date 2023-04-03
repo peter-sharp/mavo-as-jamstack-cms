@@ -49,4 +49,6 @@ we are pretty much there.
 {% endfor %}
 </ul>
 
-[Demo](https://peter-sharp.github.io/mavo-as-jamstack-cms/)
+[Demo](https://peter-sharp.github.io/mavo-as-jamstack-cms/) 
+
+[click here to edit](#admin)
